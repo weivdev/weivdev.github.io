@@ -18,13 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Weiv Tech Journey
+title: 🌏 my tech journey
 email: weivdev@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Hello World! 
+description: >- # this means to ignore newlines until "baseurl:" 
+👋 Thank you for reading my article ! 
+💰 Buy Me a Cup of Milk Tea 🧋?
+- Ethereum Name Service Domain: `colaa.eth`
+- Mainnet addresses:
+  - address to receive ETH: `0x2eD8Ab8Ec7066F45fC3Ff07Ef4053D5c7180367f`
+  - address to receive DOGE: `DDCSXuM231A4WRH4thqDjxvCfBdyQHPSu6`
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://weivdev.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: colaa.eth
 github_username:  weivdev
 
 # Build settings

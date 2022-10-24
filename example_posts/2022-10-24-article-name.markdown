@@ -16,7 +16,7 @@ This article is about:
 
 
 
-## 👋 Thank you for reading my article ! 
+## 
 #### 💰 Buy Me a Cup of Milk Tea 🧋?
 - Ethereum Name Service Domain: `colaa.eth`
 - Mainnet addresses:
