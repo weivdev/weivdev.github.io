@@ -26,10 +26,10 @@ url: "https://weivdev.github.io/" # the base hostname & protocol for your site, 
 github_username:  weivdev
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-
+  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
